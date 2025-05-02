@@ -1,4 +1,4 @@
-# 👋 こんにちは、Biomasaya です！
+# こんにちは、Biomasaya です！
 
 理系大学院生で、生体医工学や動作解析、筋骨格モデリングに取り組んでいます。
 
@@ -6,14 +6,14 @@
 
 ---
 
-## 🔬 研究テーマ
-- 💪 リーチング動作における筋張力推定（OpenSim + EMG）
-- 🤖 強化学習による人型モデルの制御（Python + Gym）
-- 🧠 人間の運動戦略を推定する逆最適化モデルの構築
+## 研究テーマ
+-  リーチング動作における筋張力推定（OpenSim + EMG）
+-  強化学習による人型モデルの制御（Python + Gym）
+-  人間の運動戦略を推定する逆最適化モデルの構築
 
 ---
 
-## 🛠️ 使用スキル
+##  使用スキル
 - Python（PyQt / NumPy / pandas / matplotlib）
 - OpenSim（動作解析 / 最適化 / CMC / RRA）
 - Git & GitHub（研究記録・コード管理）
@@ -21,13 +21,13 @@
 
 ---
 
-## 📂 他のリポジトリ紹介（例）
+##  他のリポジトリ紹介（例）
 - [trc-opemsim-gui](https://github.com/Biomasaya/trc-analyzer-gui)：TRCファイルopemsimで解析できるようにするGUIツール
 GUIツール
 
 ---
 
-## 📝 Contact
+##  Contact
 - Mail: am25057@g.kogakuin.jp
 - GitHub: [@Biomasaya](https://github.com/Biomasaya)
 
