@@ -1,6 +1,6 @@
 # 👋 こんにちは、Biomasaya です！
 
-筑波に住む理系大学院生で、生体医工学や動作解析、筋骨格モデリングに取り組んでいます。
+理系大学院生で、生体医工学や動作解析、筋骨格モデリングに取り組んでいます。
 
 このリポジトリでは、以下のような研究・プロジェクトを公開していきます。
 
@@ -22,8 +22,8 @@
 ---
 
 ## 📂 他のリポジトリ紹介（例）
-- [trc-analyzer-gui](https://github.com/Biomasaya/trc-analyzer-gui)：TRCファイルを解析するGUIツール
-- [opensim-batch-tool](https://github.com/Biomasaya/opensim-batch-tool)：OpenSimの解析を自動化するCLI/GUIツール
+- [trc-opemsim-gui](https://github.com/Biomasaya/trc-analyzer-gui)：TRCファイルopemsimで解析できるようにするGUIツール
+GUIツール
 
 ---
 
