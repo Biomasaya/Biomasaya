@@ -22,8 +22,7 @@
 ---
 
 ##  他のリポジトリ紹介（例）
-- [trc-opemsim-gui](https://github.com/Biomasaya/trc-opemsim-gui)：TRCファイルopemsimで解析できるようにするGUIツール
-GUIツール
+- [trc-opemsim-gui](https://github.com/Biomasaya/multitool-pro-ui)：人間工学におけるあらゆる解析ができるようにするGUIツール
 
 ---
 
