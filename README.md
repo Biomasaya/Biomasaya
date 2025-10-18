@@ -22,7 +22,7 @@
 ---
 
 ##  他のリポジトリ紹介（例）
-- [trc-opemsim-gui](https://github.com/Biomasaya/multitool-pro-ui)：人間工学におけるあらゆる解析ができるようにするGUIツール
+- [multitool-pro-ui](https://github.com/Biomasaya/multitool-pro-ui)：人間工学におけるあらゆる解析ができるようにするGUIツール
 
 ---
 
